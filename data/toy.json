@@ -1,0 +1,37 @@
+[
+    {
+        "_id": "101",
+        "name": "Barbie",
+        "price": 400,
+        "inStock": true,
+        "imgSrc": "./src/assets/img/barbie.png"
+    },
+    {
+        "_id": "102",
+        "name": "GI-Joe",
+        "price": 89,
+        "inStock": true,
+        "imgSrc": "./src/assets/img/gijoe.png"
+    },
+    {
+        "_id": "103",
+        "name": "Race Car",
+        "price": 270,
+        "inStock": true,
+        "imgSrc": "./src/assets/img/racecar.png"
+    },
+    {
+        "_id": "104",
+        "name": "Model Plane",
+        "price": 355,
+        "inStock": true,
+        "imgSrc": "./src/assets/img/plane.png"
+    },
+    {
+        "_id": "105",
+        "name": "Truck",
+        "price": 67,
+        "inStock": true,
+        "imgSrc": "./src/assets/img/truck.png"
+    }
+]
