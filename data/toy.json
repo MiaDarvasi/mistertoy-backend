@@ -1,37 +1,80 @@
 [
     {
         "_id": "101",
-        "name": "Barbie",
-        "price": 400,
+        "name": "Casual Barbie",
+        "price": 500,
         "inStock": true,
-        "imgSrc": "./src/assets/img/barbie.png"
-    },
-    {
-        "_id": "102",
-        "name": "GI-Joe",
-        "price": 89,
-        "inStock": true,
-        "imgSrc": "./src/assets/img/gijoe.png"
+        "labels": [
+            "Baby",
+            "Doll"
+        ],
+        "imgSrc": "./src/assets/img/barbiecasual.png"
     },
     {
         "_id": "103",
-        "name": "Race Car",
-        "price": 270,
+        "name": "Fancy Barbie",
+        "price": 300,
         "inStock": true,
-        "imgSrc": "./src/assets/img/racecar.png"
+        "labels": [
+            "Outdoor",
+            "Doll",
+            "Battary Powered"
+        ],
+        "imgSrc": "./src/assets/img/barbiefancy.png"
     },
     {
         "_id": "104",
-        "name": "Model Plane",
+        "name": "Glitter Barbie",
         "price": 355,
         "inStock": true,
-        "imgSrc": "./src/assets/img/plane.png"
+        "labels": [
+            "Baby",
+            "Battary Powered"
+        ],
+        "imgSrc": "./src/assets/img/barbieglitter.png"
     },
     {
         "_id": "105",
-        "name": "Truck",
+        "name": "Pink Barbie",
         "price": 67,
         "inStock": true,
-        "imgSrc": "./src/assets/img/truck.png"
+        "labels": [
+            "Outdoor",
+            "Doll",
+            "Baby"
+        ],
+        "imgSrc": "./src/assets/img/barbiepink.png"
+    },
+    {
+        "_id": "106",
+        "name": "Princess Barbie",
+        "price": 136,
+        "inStock": true,
+        "labels": [
+            "Outdoor",
+            "Battary Powered",
+            "Baby"
+        ],
+        "imgSrc": "./src/assets/img/barbieprincess.png"
+    },
+    {
+        "name": "Glitter Barbie",
+        "price": 47,
+        "_id": "c7kvT"
+    },
+    {
+        "name": "Glitter Barbie",
+        "price": 146,
+        "_id": "FtamY"
+    },
+    {
+        "name": "Glitter Barbie",
+        "price": 39,
+        "_id": "3BwYT"
+    },
+    {
+        "name": "Glitter Barbie",
+        "price": 132,
+        "_id": "Bople"
     }
 ]
