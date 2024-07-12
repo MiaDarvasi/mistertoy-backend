@@ -2,7 +2,7 @@
     {
         "_id": "101",
         "name": "Casual Barbie",
-        "price": 500,
+        "price": 399,
         "inStock": true,
         "labels": [
             "Baby",
@@ -13,7 +13,7 @@
     {
         "_id": "103",
         "name": "Fancy Barbie",
-        "price": 300,
+        "price": 249,
         "inStock": true,
         "labels": [
             "Outdoor",
@@ -25,7 +25,7 @@
     {
         "_id": "104",
         "name": "Glitter Barbie",
-        "price": 355,
+        "price": 229,
         "inStock": true,
         "labels": [
             "Baby",
@@ -36,7 +36,7 @@
     {
         "_id": "105",
         "name": "Pink Barbie",
-        "price": 67,
+        "price": 119,
         "inStock": true,
         "labels": [
             "Outdoor",
@@ -48,7 +48,7 @@
     {
         "_id": "106",
         "name": "Princess Barbie",
-        "price": 136,
+        "price": 79,
         "inStock": true,
         "labels": [
             "Outdoor",
@@ -58,23 +58,49 @@
         "imgSrc": "./src/assets/img/barbieprincess.png"
     },
     {
-        "name": "Glitter Barbie",
-        "price": 47,
-        "_id": "c7kvT"
+        "_id": "107",
+        "name": "Casual Barbie",
+        "price": 499,
+        "inStock": true,
+        "labels": [
+            "Baby",
+            "Doll"
+        ],
+        "imgSrc": "./src/assets/img/barbiecasual.png"
     },
     {
-        "name": "Glitter Barbie",
-        "price": 146,
-        "_id": "FtamY"
+        "_id": "108",
+        "name": "Fancy Barbie",
+        "price": 109,
+        "inStock": true,
+        "labels": [
+            "Outdoor",
+            "Doll",
+            "Battary Powered"
+        ],
+        "imgSrc": "./src/assets/img/barbiefancy.png"
     },
     {
+        "_id": "109",
         "name": "Glitter Barbie",
-        "price": 39,
-        "_id": "3BwYT"
+        "price": 139,
+        "inStock": true,
+        "labels": [
+            "Baby",
+            "Battary Powered"
+        ],
+        "imgSrc": "./src/assets/img/barbieglitter.png"
     },
     {
-        "name": "Glitter Barbie",
-        "price": 132,
-        "_id": "Bople"
+        "_id": "110",
+        "name": "Princess Barbie",
+        "price": 99,
+        "inStock": true,
+        "labels": [
+            "Outdoor",
+            "Battary Powered",
+            "Baby"
+        ],
+        "imgSrc": "./src/assets/img/barbieprincess.png"
     }
 ]
